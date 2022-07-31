@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "648441548970",
+    "project_id": "handwriting-assessment",
+    "storage_bucket": "handwriting-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648441548970:android:ec6cf7837ce3ddf15040d3",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648441548970-5jpidvbfbnq47ks1rrohqstfqo7so9ge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sih",
+            "certificate_hash": "15b76cb91000391f8d0fe22df99d116576c9baee"
+          }
+        },
+        {
+          "client_id": "648441548970-ta4trqda55h2mn3r3b4te5m6f1j4r2pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDip6E_RjiepUeISeGxl1ey4lYX2UmXCWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648441548970-ta4trqda55h2mn3r3b4te5m6f1j4r2pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
